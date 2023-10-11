@@ -1,0 +1,18 @@
+Obsahem této práce je vytvořit kalkulačku se čtyřmi základními matematickými operacemi - sčítání (+), odčítání (-), násobení (*), dělení (/). 
+Aplikace bude navržena pro Electron.
+
+
+Hlavní funkce kalkulačky budou zahrnovat:
+
+Sčítání (+) 
+Odčítání (-)
+Násobení (*)
+Dělení (/)
+Vymazání jednoho předešlého čísla 
+Vymazání všecho napsaného
+
+
+Cílová skupina:
+
+Cílovou skupinou pro tuto kalkulačku jsou obecní uživatelé, kteří potřebují jednoduchý a přístupný nástroj pro provádění základních matematických operací. 
+Aplikace bude vhodná pro širokou škálu uživatelů, od studentů až po profesionály, kteří potřebují rychle a snadno provádět výpočty s elegantním designem.
